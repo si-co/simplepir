@@ -1,3 +1,6 @@
+Fork of the original repository to run experiments on the code. 
+Below you can find the original README.
+
 # One Server for the Price of Two: Simple and Fast Single-Server Private Information Retrieval
 
 This repository contains the code for SimplePIR and DoublePIR, two high-throughput single-server PIR schemes presented in the paper ["One Server for the Price of Two: Simple and Fast Single-Server Private Information Retrieval"](https://eprint.iacr.org/2022/949) by Alexandra Henzinger, Matthew M. Hong, Henry Corrigan-Gibbs, Sarah Meiklejohn, and Vinod Vaikuntanathan.

@@ -1,4 +1,6 @@
 Fork of the original repository to run experiments on the code. 
+We use the experiment for the evaluation of 
+our (authenticated PIR project)[https://github.com/dedis/apir-code].
 Below you can find the original README.
 
 # One Server for the Price of Two: Simple and Fast Single-Server Private Information Retrieval
